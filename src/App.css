@@ -1,0 +1,45 @@
+.app-container{
+    display: flex;
+    
+}
+
+.main-content{
+    width: 100%;
+}
+
+.sidebar{
+    height: 800px;
+    width: 12rem;
+}
+
+.hastag{
+    margin: 0px 3px;
+}
+
+.reactions{
+margin: 1rem 0 0 0;
+}
+
+.crete-post{
+    width: 80%;
+    margin-left: 10% ;
+    margin-top: 3rem;
+}
+
+.getPostBtn{
+    margin-top: 2rem;
+}
+
+.wellcomemsg{
+    margin-top: 3rem;
+}
+
+.deletebtn{
+    font-size: 1rem;
+}
+
+.loading{
+margin-top: 300px;
+margin-bottom: 100px;
+}
+
